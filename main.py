@@ -1,3 +1,12 @@
+##############################################################
+# created by: Deborah Sanchez
+# email: debsanchez.business@outlook.com
+# date: 9-27-2024
+# desc: This sample Python project teaches you how to capture 
+# user input. This project is week 1 of a 5 week project which
+# can be downloaded at https://github.com/crickidie.
+##############################################################
+
 import os
 
 def generate_title():
